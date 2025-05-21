@@ -3,7 +3,7 @@
 
 시간: 매주 목요일 오후 10시
 
-스터디 시작 일자: 25. 4. 10
+스터디 시작 일자: 25. 5. 22
 
 레포: https://github.com/onjsdnjs/Java-Concurrency-Programming
 
